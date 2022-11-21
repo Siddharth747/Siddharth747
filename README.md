@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Siddharth747
-- 👀 I’m interested in cross platform application development and creating automation bots.
-- 🌱 I’m currently learning flutter
+- 👀 I’m interested in Web application development, Machine Learning and creating automation bots.
+- 🌱 I’m currently learning MERN stack development. 
 - 💞️ I’m looking to collaborate on any application that I possibly can to expand my experience and knowledge.
 - 📫 You can reach out to me on LinkedIn(https://www.linkedin.com/in/siddharth-misra747/) , or through Email(misrasiddharth9@gmail.com).
 
